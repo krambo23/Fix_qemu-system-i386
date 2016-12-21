@@ -1,4 +1,4 @@
-# Fix_qemu-system-i386
+# Fix qemu-system-i386
 Fixes qemu-system-i386 crashes on UNIX Based Systems
 <br><br>
 - Steps (MacOS) : 
