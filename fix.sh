@@ -1,8 +1,8 @@
 #!/bin/bash
 
 if [[ $1 == "MacOS" ]]; then
-	#cd ~/Library/Preferences/ #Changes directory
-	#rm -r com.android.Emulator.plist #Deletes file
+	cd ~/Library/Preferences/ #Changes directory
+	rm -r com.android.Emulator.plist #Deletes file
 	echo "Please Relogin"
 elif [[ $1 == "Linux" ]]; then
 	cd ~/.config/Android\ Open\ Source\ Project/ #Changes Directory
