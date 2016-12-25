@@ -1,6 +1,7 @@
 # Fix qemu-system-i386
 Fixes qemu-system-i386 crashes on UNIX Based Systems
 <br><br>
+<b>How to use </b>
 - Steps (MacOS) : 
 <br>
 chmod +x fix.sh 
