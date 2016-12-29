@@ -19,5 +19,5 @@ chmod +x fix.sh
 If you are on Windows, launch regedit, an remove the following registry key: HKEY_CURRENT_USER\Android Open Source Project\Emulator
 <br><br>
 <a href = "https://code.google.com/p/android/issues/detail?id=206786#c7">Source</a>
-<br><br>
+<br>
 For more info see my <a href = "https://xbox360568.blogspot.com">blog</a>
